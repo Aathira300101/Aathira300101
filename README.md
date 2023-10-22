@@ -10,5 +10,5 @@ Created Matrix chart/Heat map to find out the job satisfaction rating based on j
 
 Then, Bar chart used to find out the education field wise attrition.
 
-Used donut charts to represent the attrition rate by gender for different age groups.
+Used Donut charts to represent the attrition rate by gender for different age groups.
 
